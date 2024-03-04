@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">my</string>
+    <string name="Skip">Skip</string>
+    <string name="Next">Next</string>
+    <string name="ActivityOnboarding1_txt1">Quick Delivery At Your \n Doorstep</string>
+    <string name="ActivityOnboarding1_txt2">Enjoy quick pick-up and delivery to \n your destination</string>
+    <string name="ActivityOnboarding2_txt1">Flexible Payment</string>
+    <string name="ActivityOnboarding2_txt2">Different modes of payment either \n before and after delivery without \n stress</string>
+    <string name="ActivityOnboarding3_txt1">Real-time Tracking</string>
+    <string name="ActivityOnboarding3_txt2">Track your packages/items from the \n comfort of your home till final destination</string>
+    <string name="ActivityOnboarding3_btn">Sign Up</string>
+    <string name="ActivityOnboarding3_txt3">Already have an account?</string>
+    <string name="ActivityOnboarding3_txt4">Sign in</string>
+</resources>
